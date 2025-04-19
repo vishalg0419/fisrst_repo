@@ -11,6 +11,9 @@ Hello <div
     <strong>Alert Heading</strong> Alert Content
 </div>
 
+
+hello
+
 <script>
     var alertList = document.querySelectorAll(".alert");
     alertList.forEach(function (alert) {
